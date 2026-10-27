@@ -2,12 +2,12 @@
 
 // --- データ：複数の商品（オブジェクト）を配列で管理 ---
 const products = [
-    { name: '商品1', price: 1800, image: 'images/img01.png', inStock: true },
-    { name: '商品2', price: 3500, image: 'images/img02.png', inStock: false },
-    { name: '商品3', price: 1200, image: 'images/img03.png', inStock: true },
-    { name: '商品4', price: 2100, image: 'images/img04.png', inStock: true },
-    { name: '商品5', price: 3000, image: 'images/img05.png', inStock: false },
-    { name: '商品6', price: 9000, image: 'images/img06.png', inStock: true }
+    { name: 'キャベツ', price: 1800, image: 'images/img01.png', inStock: true },
+    { name: 'にんじん', price: 3500, image: 'images/img02.png', inStock: false },
+    { name: 'なす', price: 1200, image: 'images/img03.png', inStock: true },
+    { name: 'トマト', price: 2100, image: 'images/img04.png', inStock: true },
+    { name: 'とうもろこし', price: 3000, image: 'images/img05.png', inStock: false },
+    { name: 'ドリアン', price: 9000, image: 'images/img06.png', inStock: true }
 ];
 
 // --- HTMLの要素を取得 ---
